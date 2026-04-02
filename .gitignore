@@ -27,6 +27,8 @@ desktop.ini
 *.bak
 *.log
 *.png
+*.jpg
+*.jpeg
 
 # Node.js (if any)
 node_modules/

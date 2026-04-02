@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-系统架构/功能架构.md",
+                "file": "03-系统架构/询报价交易.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "功能架构"
+              "title": "询报价交易"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-市场概述/参与者生态.md",
+                "file": "03-系统架构/询报价交易.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "参与者生态 的反向链接列表"
+              "title": "询报价交易 的反向链接列表"
             }
           },
           {
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +184,19 @@
   },
   "active": "148036aba9fd1bc5",
   "lastOpenFiles": [
+    "02-业务流程/核心业务培训资料.md",
+    "02-业务流程/核心业务知识培训资料.md",
+    "02-业务流程/培训资料.md",
+    "03-系统架构/交易任务管理.md",
+    "03-系统架构/README.md",
+    "01-市场概述/市场现状.md",
+    "02-业务流程/发行与承销.md",
+    "02-业务流程/交易流程.md",
+    "03-系统架构/功能架构.md",
     "03-系统架构/技术架构.md",
     "06-法规合规/合规要求.md",
     "focus-page175.png",
     "focus-page170.png",
-    "02-业务流程/交易流程.md",
     "03-系统架构/产品形态.md",
     "focus3-page182.png",
     "focus3-page181.png",
@@ -199,17 +206,13 @@
     "focus2-page186.png",
     "focus2-page185.png",
     "focus2-page184.png",
-    "02-业务流程/发行与承销.md",
     "01-市场概述/README.md",
     "01-市场概述/监管体系.md",
     "01-市场概述/参与者生态.md",
-    "03-系统架构/功能架构.md",
     "03-系统架构/接口规范.md",
     "04-竞品分析/功能对比.md",
     "04-竞品分析/README.md",
     "04-竞品分析/竞品概览.md",
-    "01-市场概述/市场现状.md",
-    "03-系统架构/README.md",
     "05-上下游生态/技术生态.md",
     "05-上下游生态/数据服务商.md",
     "05-上下游生态/基础设施机构.md",
@@ -217,13 +220,10 @@
     "06-法规合规/法律法规.md",
     "README.md",
     "04-竞品分析/差异化策略.md",
-    "06-法规合规/README.md",
     "06-法规合规",
-    "05-上下游生态/README.md",
     "05-上下游生态",
     "04-竞品分析",
     "03-系统架构",
-    "02-业务流程/清算结算.md",
     "02-业务流程",
     "01-市场概述"
   ]
